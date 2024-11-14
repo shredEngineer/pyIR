@@ -1,4 +1,4 @@
-# Apply an impulse response (IR) signal to an audio signal. Accepts 44.1 kHz .wav files.
+# Apply an impulse response (IR) signal to an audio signal. Accepts 44.1 kHz mono .wav files.
 
 import sys
 import warnings
